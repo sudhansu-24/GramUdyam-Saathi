@@ -1,6 +1,6 @@
 # GramUdyam Saathi — SIH 2026 PS 26091 prototype
 
-**लोन लेने से पहले, सही फ़ैसला।** Voice-first rural business advisory and loan-structuring assistant for MoSJE (NSFDC / NBCFDC / NSKFDC beneficiaries). Tells a first-time entrepreneur how much they *should* borrow, for which business, in their own village.
+**लोन लेने से पहले, सही फ़ैसला।** Voice-first rural business advisory and loan-structuring assistant for MoSJE (NSFDC / NBCFDC / NSKFDC beneficiaries). Tells a first-time entrepreneur how much they *should* borrow, for which business, in their own village
 
 Prototype runs fully in the browser on **demo data** (Barabanki district, UP). The finance and feasibility engines are real, deterministic code.
 
